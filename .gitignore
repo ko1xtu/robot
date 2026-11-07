@@ -1,0 +1,22 @@
+# Binary files
+*.pyc
+__pycache__/
+*.pt
+*.pth
+*.onnx
+*.safetensors
+*.ckpt
+*.bin
+*.zip
+*.jpg
+*.jpeg
+*.png
+*.mp3
+*.wav
+*.kra
+*.odt
+*.docx
+
+# Namespaced junk
+._*
+.~lock.*
