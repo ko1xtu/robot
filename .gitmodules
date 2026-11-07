@@ -1,0 +1,3 @@
+[submodule "src/kev-source"]
+	path = src/kev-source
+	url = https://github.com/jaredpalmer/kev

@@ -2,6 +2,7 @@
 
 
 -- ESP 32 S3 x2
+-- датчики
 -- Контнролер заряда
 -- аккумулятор
 -- два колеса
@@ -14,10 +15,10 @@
 -- микрофон
 
 
--- c++, python 
+-- c++, python
 -- workflow and tools: 
 uv + opencv+onnx workflow/mediapipe,
-platformIO, whisper
+platformIO + ESP-IDF, whisper
 
 * cv + api just for context
 
